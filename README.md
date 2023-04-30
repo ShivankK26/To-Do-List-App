@@ -5,7 +5,7 @@
 
 
 
-In this Project, I've built a WebApp called as To Do List App using which you can create a To Do List for all your daily tasks. This WebApp is extremely beneficial for College Students who want to keep a Track of their entire Daily Activity. So, use it and just have fun!!!
+In this Project, I've built a WebApp called as To Do List App using which you can create a To Do List for all your daily tasks. This WebApp is extremely beneficial for College Students who want to keep a Track of their entire Daily Activity. So, just use it and have fun!!!
 
 
 
